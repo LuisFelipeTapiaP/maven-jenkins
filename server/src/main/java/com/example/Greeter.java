@@ -10,7 +10,7 @@ public class Greeter {
    */
   public Greeter() {
     //cambio m inimo
-    asda
+    
   }
 
   //TODO: Add javadoc comment
